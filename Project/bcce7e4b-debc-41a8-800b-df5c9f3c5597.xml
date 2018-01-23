@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <ControllerId>fd7c3373-e13c-4dd9-9a51-fed43a9b7324</ControllerId>
+  <ControllerName></ControllerName>
+  <MajorVersion>1</MajorVersion>
+  <MinorVersion>17</MinorVersion>
+  <Revision>0</Revision>
+  <Category>Controller</Category>
+  <Family>Nex</Family>
+  <ModelName>NJ501</ModelName>
+  <ModelDetail>1500</ModelDetail>
+  <SystemErrorMessageDisplayLanguageSetting>en-US,ja-JP</SystemErrorMessageDisplayLanguageSetting>
+  <IsDuplicateIdOptimized>true</IsDuplicateIdOptimized>
+  <IsWithoutCommentTransfer>false</IsWithoutCommentTransfer>
+</data>
